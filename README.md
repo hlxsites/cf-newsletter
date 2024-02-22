@@ -1,9 +1,6 @@
-# Project Iris – Sites Newsletter
-This project enables the creation of the montly Sites Newsletter in Franklin as well as the integration in Adobe Journey Optimizer (AJO).
-
 ## Environments
-- Preview: https://main--sites-newsletter--hlxsites.hlx.page/
-- Live: https://main--sites-newsletter--hlxsites.hlx.live/
+- Preview: https://main--cf-newsletter--hlxsites.hlx.page/
+- Live: https://main--cf-newsletter--hlxsites.hlx.live/
 
 ## Installation
 
